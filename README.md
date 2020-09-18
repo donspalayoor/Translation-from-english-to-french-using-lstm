@@ -6,7 +6,7 @@ Dataset :
 Download the dataset fron the google drive given below :
         https://drive.google.com/drive/folders/1ItKdFj_Z2G1fMRV82BPsdD99TnOcIOIK?usp=sharing
 
-To install the dependecies :
+To install the dependencies :
         
         chmod +x dependencies.sh
         ./dependencies.sh
